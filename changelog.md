@@ -1,30 +1,20 @@
-# CHANGELOG.md
+# changelog
 
-## 1.8.0 (unreleased)
+## 15.0.0 - 2042-12-03
 
-Features:
+### Fixed
 
-  - add support for SVN sources -> [95f32s5b](http://www.google.com)
-  - add metadata allowed_push_host to new gem template -> [95f32s5b](http://www.google.com)
-  - adds a `--no-install` flag to `bundle package` -> [95f32s5b](http://www.google.com)
+* Removed humans, they weren't doing fine with animals.
 
-## 1.7.0 (2014-08-13)
+### Changed
 
-Security:
+* Animals are now super cute, all of them.
 
-  - Fix for CVE-2013-0334, installing gems from an unexpected source -> [95f32s5b](http://www.google.com)
+## 14.0.0 - 2042-10-06
 
-Features:
+### Added
 
-  - Gemfile `source` calls now take a block containing gems from that source -> [95f32s5b](http://www.google.com)
-  - added the `:source` option to `gem` to specify a source -> [95f32s5b](http://www.google.com)
+* Introduced animals into the world, we believe they're going to be a neat addition.
 
-Fix:
 
-  - warn on ambiguous gems available from more than one source -> [95f32s5b](http://www.google.com)
 
-## 1.6.5 (2014-07-23)
-
-Bugfixes:
-
-  - require openssl explicitly to fix rare HTTPS request failures -> [95f32s5b](http://www.google.com)

@@ -3,4 +3,5 @@
 * [Introduction](README.md)
 * [FAQ](faq.md)
 * [test](test.md)
+* [changelog](changelog.md)
 
