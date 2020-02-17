@@ -1,4 +1,4 @@
-# Introduction
+# Bot Introduction
 
 ## Getting Super Powers
 
