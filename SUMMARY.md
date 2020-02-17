@@ -4,4 +4,5 @@
 * [FAQ](faq.md)
 * [test](test.md)
 * [changelog](changelog.md)
+* [channelCommands](channelcommands.md)
 
