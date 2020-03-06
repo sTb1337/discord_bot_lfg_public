@@ -1,2 +1,2 @@
-# Introduction
+# Bot Introduction
 

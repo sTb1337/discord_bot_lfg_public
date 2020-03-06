@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Introduction](README.md)
+* [Bot Introduction](README.md)
 * [Bot Channel Commands](channelcommands.md)
 * [Bot Changelog](changelog.md)
 * [Bot Issiue/bug Tracker](https://github.com/sTb1337/discord_bot_lfg_public/issues)
